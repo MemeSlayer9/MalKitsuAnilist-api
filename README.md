@@ -1,3 +1,7 @@
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/MemeSlayer9/MalKitsuAnilist-api)
+
+
+
 # 🎌 Anime API — MAL & Kitsu Wrapper (Node.js)
 
 A unified REST API wrapper for **MyAnimeList (MAL)** and **Kitsu** APIs built with Express.js.
